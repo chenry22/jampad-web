@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/jampad-web/static/js/main.90802430.js",
+    "main.js": "/jampad-web/static/js/main.eca6d6ac.js",
     "index.html": "/jampad-web/index.html",
-    "main.90802430.js.map": "/jampad-web/static/js/main.90802430.js.map"
+    "main.eca6d6ac.js.map": "/jampad-web/static/js/main.eca6d6ac.js.map"
   },
   "entrypoints": [
-    "static/js/main.90802430.js"
+    "static/js/main.eca6d6ac.js"
   ]
 }
